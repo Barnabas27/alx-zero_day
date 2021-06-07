@@ -1,0 +1,1 @@
+This project shows the display of the command uname run in ssh
