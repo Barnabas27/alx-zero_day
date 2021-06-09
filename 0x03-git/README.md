@@ -1,1 +1,1 @@
-this project contains works about the git
+This project contains works about the git
